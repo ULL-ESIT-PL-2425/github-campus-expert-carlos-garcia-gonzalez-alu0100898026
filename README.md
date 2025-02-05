@@ -1,9 +1,10 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17985860)
 # Github Campus Expert 
 
-- Nombre 
-- Apellidos 
-- aluXXXX
+- Nombre: Carlos
+- Apellidos: García González
+- Alu: alu0100898026
+- GitHub: carlos016
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
@@ -18,5 +19,6 @@
 ![project board kanban](docs/project_board.png)
 
 ## Solicitar el GitHub Backpack
+Solicité el GitHub Student Developer Pack hace dos años, me lo concedieron y aún está en vigencia.
 
 ![github backpack](docs/backpack.png)
