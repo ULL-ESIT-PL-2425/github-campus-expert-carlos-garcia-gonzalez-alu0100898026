@@ -22,3 +22,5 @@
 Solicité el GitHub Student Developer Pack hace dos años, me lo concedieron y aún está en vigencia.
 
 ![github backpack](docs/backpack.png)
+
+Todo lo demás que no está explícitamente aquí en el README.md está estipulado en las capturas de pantalla.
